@@ -1,0 +1,7 @@
+customer_id,full_name,age,gender,marital_status,employment_type,annual_income,city
+C001,Rahul Sharma,32,Male,Married,Salaried,850000,Mumbai
+C002,Anita Verma,28,Female,Single,Salaried,620000,Pune
+C003,Suresh Patil,45,Male,Married,Business,1200000,Nagpur
+C004,Pooja Singh,36,Female,Married,Salaried,780000,Delhi
+C005,Amit Kulkarni,50,Male,Married,Business,1500000,Bangalore
+C006,Neha Joshi,26,Female,Single,Salaried,480000,Nashik

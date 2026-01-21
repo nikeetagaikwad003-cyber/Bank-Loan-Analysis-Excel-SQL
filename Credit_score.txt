@@ -1,0 +1,7 @@
+customer_id,credit_score,risk_category
+C001,780,Low
+C002,710,Medium
+C003,640,High
+C004,750,Low
+C005,720,Medium
+C006,680,Medium

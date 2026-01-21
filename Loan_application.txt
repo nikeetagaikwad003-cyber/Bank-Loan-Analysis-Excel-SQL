@@ -1,0 +1,7 @@
+loan_id,customer_id,loan_type,loan_amount,loan_tenure_years,interest_rate,application_date,loan_status
+L001,C001,Home Loan,2500000,20,8.5,2023-03-15,Approved
+L002,C002,Personal Loan,300000,5,13.0,2023-06-10,Approved
+L003,C003,Business Loan,1500000,10,11.5,2023-01-25,Rejected
+L004,C004,Car Loan,600000,7,9.5,2023-09-05,Approved
+L005,C005,Business Loan,3000000,15,12.0,2023-02-12,Approved
+L006,C006,Personal Loan,200000,4,14.0,2023-11-20,Pending

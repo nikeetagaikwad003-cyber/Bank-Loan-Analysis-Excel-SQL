@@ -1,0 +1,7 @@
+payment_id,loan_id,payment_date,emi_amount,payment_status
+P001,L001,2024-01-05,21500,Paid
+P002,L001,2024-02-05,21500,Paid
+P003,L002,2024-01-10,6900,Paid
+P004,L002,2024-02-10,6900,Missed
+P005,L004,2024-01-12,9800,Paid
+P006,L005,2024-01-18,32000,Paid
